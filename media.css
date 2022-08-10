@@ -1,0 +1,22 @@
+@media (max-width: 1200px) {
+    .nav-content {
+        max-width: 75%;
+    }
+    .header {
+        max-width: 100%;
+    }
+    .about-info {
+        max-width: 100%;
+    }
+    .main-flex {
+        padding-right: 30px;
+    }
+}
+@media (max-width: 992px) {
+    .nav-content {
+        max-width: 75%;
+    }
+    .header{ 
+        max-width: 100%;
+    }
+}
